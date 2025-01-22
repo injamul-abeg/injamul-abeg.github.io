@@ -9,8 +9,8 @@ html {
     height: 100%;
 }
 
-.body{
-  background-color: #444444;
+.body {
+    background-color: #000000;
 }
 
 .profile a:visited {
@@ -226,7 +226,8 @@ hr {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 200px;
-  background-color: #dddddd;
+  color: #CCCCCC;
+    background-color: #000000;
 }
 
 .footer > .container {
@@ -244,6 +245,8 @@ hr {
     height: auto;
     width: 100%;
     margin: 0 0;
+	color: #CCCCCC;
+    background-color: #000000;
     position: relative;
     box-shadow: 0 0 20px rgba(0,0,0,0.8);
     padding: 100px 0px;
@@ -255,7 +258,8 @@ hr {
 .about-section {
     height: auto;
     font-size: 18px;
-    background: #ffffff;
+    color: #CCCCCC;
+    background-color: #000000;
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
@@ -264,7 +268,8 @@ hr {
 .news-section {
     height: auto;
     font-size: 16px;
-    background: #f7f7f7;
+    color: #CCCCCC;
+    background-color: #000000;
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
@@ -274,7 +279,8 @@ hr {
 .publication-section {
     height: auto;
     font-size: 16px;
-    background: #ffffff;
+    color: #CCCCCC;
+    background-color: #000000;
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
@@ -283,7 +289,8 @@ hr {
 .project-section {
     height: auto;
     font-size: 16px;
-    background: #f7f7f7;
+    color: #CCCCCC;
+    background-color: #000000;
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
@@ -293,7 +300,8 @@ hr {
 .education-section {
     height: auto;
     font-size: 18px;
-    background: #ffffff;
+	color: #CCCCCC;
+    background-color: #000000;
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
@@ -302,7 +310,26 @@ hr {
 .activity-section {
     height: auto;
     font-size: 16px;
-    background: #f7f7f7;
+    color: #CCCCCC;
+    background-color: #000000;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
+}
+.expericence-section {
+    height: auto;
+    font-size: 18px;
+    color: #CCCCCC;
+    background-color: #000000;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
+}
+.achievements-section {
+    height: auto;
+    font-size: 18px;
+    color: #CCCCCC;
+    background-color: #000000; /* Matches the site theme */
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
